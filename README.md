@@ -44,3 +44,8 @@ Links de rede raramente caem sem aviso prévio. Antes de uma interrupção sever
  ┃ ┗ 📜 index.html               # Artigo completo, diagramas SVG e tabelas comparativas
  ┣ 📜 README.md                  # Documentação e guia de reprodutibilidade
  ┗ 📜 requirements.txt           # Dependências exatas do ambiente Python
+
+## 🗂️ Como rodar o projeto:
+->O código deve ser inserido na pasta "my_drive" disponível em todo google drive.
+->A permissão para acesso do Google Drive deve ser concedido ao aplicativo google colab
+-> O notebook deve ser upado nele (Google Colab) e executado bloco a bloco
