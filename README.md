@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Sobre o Projeto## 👥 Autores * **Isaque Rodrigues Valim** | **Eduardo Felipe** | **Ryan Catão de Paula** | **Gabriel José Couto Pereira** | **[Nome do Integrante 5]**
+## 🎯 Sobre o Projeto## 👥 Autores * **Isaque Rodrigues Valim** | **Eduardo Felipe** | **Ryan Catão de Paula** | **Gabriel José Couto Pereira** | **Gabriel Schmidit]**
 
 Links de rede raramente caem sem aviso prévio. Antes de uma interrupção severa, métricas de telemetria dão sinais claros de degradação. Este projeto investiga qual arquitetura baseada em árvores oferece o melhor equilíbrio entre **capacidade de detecção (Recall/F1-Score)**, **custo operacional de erros (Falsos Negativos vs. Falsos Positivos)**, **latência de inferência** e **interpretabilidade**.
 
